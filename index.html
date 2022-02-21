@@ -31,7 +31,7 @@
             //loop thru every object in JSON
                 var div = document.createElement("div");
                 //creates new div
-                div.innerHTML = 'Set Number: ' + data[i].number + ' MSRP: ' + LEGOCom.US.retailPrice;
+                div.innerHTML = 'Set Number: ' + data[i].number + ' MSRP: ' + data[i].LEGOCom.US.retailPrice;
                 //fill div with info from json file
                 mainContainer.appendChild(div);
                 //append div to main container(?)
