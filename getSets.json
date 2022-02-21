@@ -1,0 +1,1976 @@
+{"status":"success","matches":33,"sets":[
+  {
+    "setID": 30328,
+    "number": "30341",
+    "numberVariant": 1,
+    "name": "Monkie Kid's Delivery Bike",
+    "year": 2020,
+    "theme": "Monkie Kid",
+    "themeGroup": "Action/Adventure",
+    "subtheme": "Miscellaneous",
+    "category": "Normal",
+    "released": true,
+    "pieces": 22,
+    "minifigs": 1,
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/30341-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/30341-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/30341-1",
+    "collection": {},
+    "collections": {
+      "ownedBy": 2898,
+      "wantedBy": 719
+    },
+    "LEGOCom": {
+      "US": {},
+      "UK": {},
+      "CA": {},
+      "DE": {}
+    },
+    "rating": 4.0,
+    "reviewCount": 2,
+    "packagingType": "Polybag",
+    "availability": "LEGO exclusive",
+    "instructionsCount": 2,
+    "additionalImageCount": 0,
+    "ageRange": {},
+    "dimensions": {
+      "height": 17.0,
+      "width": 17.0,
+      "depth": 0.6
+    },
+    "barcode": {
+      "EAN": "5702016668223",
+      "UPC": "673419325622"
+    },
+    "extendedData": {},
+    "lastUpdated": "2021-02-21T10:15:09.303Z"
+  },
+  {
+    "setID": 31246,
+    "number": "30344",
+    "numberVariant": 1,
+    "name": "Mini Monkey King Warrior Mech",
+    "year": 2021,
+    "theme": "Monkie Kid",
+    "themeGroup": "Action/Adventure",
+    "subtheme": "Miscellaneous",
+    "category": "Normal",
+    "released": true,
+    "pieces": 65,
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/30344-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/30344-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/30344-1",
+    "collection": {},
+    "collections": {
+      "ownedBy": 175,
+      "wantedBy": 327
+    },
+    "LEGOCom": {
+      "US": {},
+      "UK": {},
+      "CA": {},
+      "DE": {}
+    },
+    "rating": 0.0,
+    "reviewCount": 0,
+    "packagingType": "Polybag",
+    "availability": "LEGO exclusive",
+    "instructionsCount": 2,
+    "additionalImageCount": 1,
+    "ageRange": {},
+    "dimensions": {
+      "height": 17.0,
+      "width": 17.0,
+      "depth": 1.7
+    },
+    "barcode": {
+      "EAN": "5702016912074"
+    },
+    "extendedData": {},
+    "lastUpdated": "2021-04-21T17:41:43.867Z"
+  },
+  {
+    "setID": 32276,
+    "number": "30562",
+    "numberVariant": 1,
+    "name": "Monkie Kid's Underwater Journey",
+    "year": 2022,
+    "theme": "Monkie Kid",
+    "themeGroup": "Action/Adventure",
+    "subtheme": "Season 3",
+    "category": "Normal",
+    "released": true,
+    "pieces": 57,
+    "minifigs": 3,
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/30562-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/30562-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/30562-1",
+    "collection": {},
+    "collections": {
+      "ownedBy": 869,
+      "wantedBy": 685
+    },
+    "LEGOCom": {
+      "US": {},
+      "UK": {},
+      "CA": {},
+      "DE": {}
+    },
+    "rating": 0.0,
+    "reviewCount": 0,
+    "packagingType": "Polybag",
+    "availability": "LEGO exclusive",
+    "instructionsCount": 2,
+    "additionalImageCount": 0,
+    "ageRange": {},
+    "dimensions": {
+      "height": 17.0,
+      "width": 17.0,
+      "depth": 1.7
+    },
+    "barcode": {},
+    "extendedData": {},
+    "lastUpdated": "2022-01-16T11:29:30.12Z"
+  },
+  {
+    "setID": 31245,
+    "number": "40472",
+    "numberVariant": 1,
+    "name": "Monkie Kid's RC Race",
+    "year": 2021,
+    "theme": "Monkie Kid",
+    "themeGroup": "Action/Adventure",
+    "subtheme": "Miscellaneous",
+    "category": "Normal",
+    "released": true,
+    "pieces": 57,
+    "minifigs": 3,
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/40472-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/40472-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/40472-1",
+    "collection": {},
+    "collections": {
+      "ownedBy": 783,
+      "wantedBy": 326
+    },
+    "LEGOCom": {
+      "US": {
+        "retailPrice": 12.99,
+        "dateFirstAvailable": "2021-03-20T00:00:00Z",
+        "dateLastAvailable": "2022-02-11T00:00:00Z"
+      },
+      "UK": {
+        "retailPrice": 11.99,
+        "dateFirstAvailable": "2021-03-01T00:00:00Z"
+      },
+      "CA": {
+        "retailPrice": 16.99,
+        "dateFirstAvailable": "2021-03-20T00:00:00Z",
+        "dateLastAvailable": "2022-02-11T00:00:00Z"
+      },
+      "DE": {
+        "retailPrice": 12.99,
+        "dateFirstAvailable": "2021-03-02T00:00:00Z"
+      }
+    },
+    "rating": 0.0,
+    "reviewCount": 0,
+    "packagingType": "Blister pack",
+    "availability": "LEGO exclusive",
+    "instructionsCount": 1,
+    "additionalImageCount": 0,
+    "ageRange": {},
+    "dimensions": {
+      "height": 15.0,
+      "width": 25.0,
+      "depth": 3.2
+    },
+    "barcode": {
+      "UPC": "673419337540"
+    },
+    "extendedData": {},
+    "lastUpdated": "2021-04-01T07:23:06.417Z"
+  },
+  {
+    "setID": 30646,
+    "number": "40474",
+    "numberVariant": 1,
+    "name": "Build your own Monkey King",
+    "year": 2020,
+    "theme": "Monkie Kid",
+    "themeGroup": "Action/Adventure",
+    "subtheme": "Miscellaneous",
+    "category": "Normal",
+    "released": true,
+    "pieces": 24,
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/40474-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/40474-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/40474-1",
+    "collection": {},
+    "collections": {
+      "ownedBy": 298,
+      "wantedBy": 263
+    },
+    "LEGOCom": {
+      "US": {},
+      "UK": {},
+      "CA": {},
+      "DE": {}
+    },
+    "rating": 0.0,
+    "reviewCount": 0,
+    "packagingType": "Polybag",
+    "availability": "{Not specified}",
+    "instructionsCount": 2,
+    "additionalImageCount": 0,
+    "ageRange": {
+      "min": 6
+    },
+    "dimensions": {
+      "height": 14.0,
+      "width": 14.0,
+      "depth": 0.9
+    },
+    "barcode": {
+      "UPC": "673419337113"
+    },
+    "extendedData": {},
+    "lastUpdated": "2021-02-21T10:15:39.423Z"
+  },
+  {
+    "setID": 30214,
+    "number": "80006",
+    "numberVariant": 1,
+    "name": "White Dragon Horse Bike",
+    "year": 2020,
+    "theme": "Monkie Kid",
+    "themeGroup": "Action/Adventure",
+    "subtheme": "A Hero is Born",
+    "category": "Normal",
+    "released": true,
+    "pieces": 259,
+    "minifigs": 4,
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/80006-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/80006-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/80006-1",
+    "collection": {},
+    "collections": {
+      "ownedBy": 723,
+      "wantedBy": 504
+    },
+    "LEGOCom": {
+      "US": {
+        "retailPrice": 34.99,
+        "dateFirstAvailable": "2020-05-16T00:00:00Z"
+      },
+      "UK": {
+        "retailPrice": 24.99,
+        "dateFirstAvailable": "2020-05-16T00:00:00Z",
+        "dateLastAvailable": "2021-11-20T00:00:00Z"
+      },
+      "CA": {
+        "retailPrice": 44.99,
+        "dateFirstAvailable": "2020-05-16T00:00:00Z"
+      },
+      "DE": {
+        "retailPrice": 29.99,
+        "dateFirstAvailable": "2020-05-19T00:00:00Z",
+        "dateLastAvailable": "2021-11-21T00:00:00Z"
+      }
+    },
+    "rating": 3.6,
+    "reviewCount": 1,
+    "packagingType": "Box",
+    "availability": "LEGO exclusive",
+    "instructionsCount": 6,
+    "additionalImageCount": 25,
+    "ageRange": {},
+    "dimensions": {
+      "height": 19.1,
+      "width": 35.4,
+      "depth": 7.0
+    },
+    "barcode": {
+      "EAN": "5702016617603"
+    },
+    "extendedData": {},
+    "lastUpdated": "2021-02-07T08:48:33.61Z"
+  },
+  {
+    "setID": 30215,
+    "number": "80007",
+    "numberVariant": 1,
+    "name": "Iron Bull Tank",
+    "year": 2020,
+    "theme": "Monkie Kid",
+    "themeGroup": "Action/Adventure",
+    "subtheme": "A Hero is Born",
+    "category": "Normal",
+    "released": true,
+    "pieces": 430,
+    "minifigs": 4,
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/80007-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/80007-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/80007-1",
+    "collection": {},
+    "collections": {
+      "ownedBy": 472,
+      "wantedBy": 433
+    },
+    "LEGOCom": {
+      "US": {
+        "retailPrice": 49.99,
+        "dateFirstAvailable": "2020-05-16T00:00:00Z"
+      },
+      "UK": {
+        "retailPrice": 39.99,
+        "dateFirstAvailable": "2020-05-16T00:00:00Z",
+        "dateLastAvailable": "2021-10-16T00:00:00Z"
+      },
+      "CA": {
+        "retailPrice": 69.99,
+        "dateFirstAvailable": "2020-05-16T00:00:00Z"
+      },
+      "DE": {
+        "retailPrice": 44.99,
+        "dateFirstAvailable": "2020-05-19T00:00:00Z",
+        "dateLastAvailable": "2021-11-15T00:00:00Z"
+      }
+    },
+    "rating": 0.0,
+    "reviewCount": 0,
+    "packagingType": "Box",
+    "availability": "LEGO exclusive",
+    "instructionsCount": 3,
+    "additionalImageCount": 18,
+    "ageRange": {
+      "min": 7
+    },
+    "dimensions": {
+      "height": 26.2,
+      "width": 38.2,
+      "depth": 7.1
+    },
+    "barcode": {
+      "EAN": "5702016617610"
+    },
+    "extendedData": {},
+    "lastUpdated": "2021-02-07T08:48:44.153Z"
+  },
+  {
+    "setID": 30216,
+    "number": "80008",
+    "numberVariant": 1,
+    "name": "Monkie Kid's Cloud Jet",
+    "year": 2020,
+    "theme": "Monkie Kid",
+    "themeGroup": "Action/Adventure",
+    "subtheme": "A Hero is Born",
+    "category": "Normal",
+    "released": true,
+    "pieces": 529,
+    "minifigs": 4,
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/80008-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/80008-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/80008-1",
+    "collection": {},
+    "collections": {
+      "ownedBy": 623,
+      "wantedBy": 555
+    },
+    "LEGOCom": {
+      "US": {
+        "retailPrice": 59.99,
+        "dateFirstAvailable": "2020-05-16T00:00:00Z"
+      },
+      "UK": {
+        "retailPrice": 44.99,
+        "dateFirstAvailable": "2020-05-16T00:00:00Z"
+      },
+      "CA": {
+        "retailPrice": 74.99,
+        "dateFirstAvailable": "2020-05-16T00:00:00Z"
+      },
+      "DE": {
+        "retailPrice": 49.99,
+        "dateFirstAvailable": "2020-05-19T00:00:00Z"
+      }
+    },
+    "rating": 4.0,
+    "reviewCount": 0,
+    "packagingType": "Box",
+    "availability": "LEGO exclusive",
+    "instructionsCount": 6,
+    "additionalImageCount": 25,
+    "ageRange": {
+      "min": 8
+    },
+    "dimensions": {
+      "height": 28.2,
+      "width": 48.0,
+      "depth": 6.1
+    },
+    "barcode": {
+      "EAN": "5702016617627"
+    },
+    "extendedData": {},
+    "lastUpdated": "2021-02-07T08:48:53.227Z"
+  },
+  {
+    "setID": 30217,
+    "number": "80009",
+    "numberVariant": 1,
+    "name": "Pigsy's Food Truck",
+    "year": 2020,
+    "theme": "Monkie Kid",
+    "themeGroup": "Action/Adventure",
+    "subtheme": "A Hero is Born",
+    "category": "Normal",
+    "released": true,
+    "pieces": 832,
+    "minifigs": 5,
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/80009-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/80009-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/80009-1",
+    "collection": {},
+    "collections": {
+      "ownedBy": 1054,
+      "wantedBy": 810
+    },
+    "LEGOCom": {
+      "US": {
+        "retailPrice": 69.99,
+        "dateFirstAvailable": "2020-05-16T00:00:00Z",
+        "dateLastAvailable": "2021-11-08T00:00:00Z"
+      },
+      "UK": {
+        "retailPrice": 54.99,
+        "dateFirstAvailable": "2020-05-16T00:00:00Z",
+        "dateLastAvailable": "2021-08-16T00:00:00Z"
+      },
+      "CA": {
+        "retailPrice": 89.99,
+        "dateFirstAvailable": "2020-05-16T00:00:00Z",
+        "dateLastAvailable": "2021-11-08T00:00:00Z"
+      },
+      "DE": {
+        "retailPrice": 59.99,
+        "dateFirstAvailable": "2020-05-19T00:00:00Z",
+        "dateLastAvailable": "2021-08-17T00:00:00Z"
+      }
+    },
+    "rating": 4.3,
+    "reviewCount": 0,
+    "packagingType": "Box",
+    "availability": "LEGO exclusive",
+    "instructionsCount": 3,
+    "additionalImageCount": 29,
+    "ageRange": {
+      "min": 8
+    },
+    "dimensions": {
+      "height": 28.2,
+      "width": 54.0,
+      "depth": 7.9
+    },
+    "barcode": {
+      "EAN": "5702016617634"
+    },
+    "extendedData": {},
+    "lastUpdated": "2021-02-07T08:49:04.013Z"
+  },
+  {
+    "setID": 30218,
+    "number": "80010",
+    "numberVariant": 1,
+    "name": "Demon Bull King",
+    "year": 2020,
+    "theme": "Monkie Kid",
+    "themeGroup": "Action/Adventure",
+    "subtheme": "A Hero is Born",
+    "category": "Normal",
+    "released": true,
+    "pieces": 1051,
+    "minifigs": 3,
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/80010-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/80010-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/80010-1",
+    "collection": {},
+    "collections": {
+      "ownedBy": 825,
+      "wantedBy": 752
+    },
+    "LEGOCom": {
+      "US": {
+        "retailPrice": 89.99,
+        "dateFirstAvailable": "2020-05-16T00:00:00Z",
+        "dateLastAvailable": "2021-11-16T00:00:00Z"
+      },
+      "UK": {
+        "retailPrice": 74.99,
+        "dateFirstAvailable": "2020-05-16T00:00:00Z",
+        "dateLastAvailable": "2021-08-01T00:00:00Z"
+      },
+      "CA": {
+        "retailPrice": 119.99,
+        "dateFirstAvailable": "2020-05-16T00:00:00Z",
+        "dateLastAvailable": "2021-11-18T00:00:00Z"
+      },
+      "DE": {
+        "retailPrice": 79.99,
+        "dateFirstAvailable": "2020-05-19T00:00:00Z",
+        "dateLastAvailable": "2021-08-01T00:00:00Z"
+      }
+    },
+    "rating": 4.4,
+    "reviewCount": 1,
+    "packagingType": "Box",
+    "availability": "LEGO exclusive",
+    "instructionsCount": 3,
+    "additionalImageCount": 21,
+    "ageRange": {
+      "min": 9
+    },
+    "dimensions": {
+      "height": 37.8,
+      "width": 35.4,
+      "depth": 9.4
+    },
+    "barcode": {
+      "EAN": "5702016617641"
+    },
+    "extendedData": {},
+    "lastUpdated": "2021-02-07T08:49:13.863Z"
+  },
+  {
+    "setID": 30219,
+    "number": "80011",
+    "numberVariant": 1,
+    "name": "Red Son's Inferno Truck",
+    "year": 2020,
+    "theme": "Monkie Kid",
+    "themeGroup": "Action/Adventure",
+    "subtheme": "A Hero is Born",
+    "category": "Normal",
+    "released": true,
+    "pieces": 1111,
+    "minifigs": 7,
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/80011-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/80011-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/80011-1",
+    "collection": {},
+    "collections": {
+      "ownedBy": 544,
+      "wantedBy": 641
+    },
+    "LEGOCom": {
+      "US": {
+        "retailPrice": 119.99,
+        "dateFirstAvailable": "2020-05-16T00:00:00Z"
+      },
+      "UK": {
+        "retailPrice": 89.99,
+        "dateFirstAvailable": "2020-05-16T00:00:00Z",
+        "dateLastAvailable": "2021-11-10T00:00:00Z"
+      },
+      "CA": {
+        "retailPrice": 149.99,
+        "dateFirstAvailable": "2020-05-16T00:00:00Z"
+      },
+      "DE": {
+        "retailPrice": 99.99,
+        "dateFirstAvailable": "2020-05-19T00:00:00Z",
+        "dateLastAvailable": "2021-11-15T00:00:00Z"
+      }
+    },
+    "rating": 4.0,
+    "reviewCount": 0,
+    "packagingType": "Box",
+    "availability": "LEGO exclusive",
+    "instructionsCount": 6,
+    "additionalImageCount": 26,
+    "ageRange": {
+      "min": 9
+    },
+    "dimensions": {
+      "height": 37.8,
+      "width": 48.0,
+      "depth": 9.4
+    },
+    "barcode": {
+      "EAN": "5702016617665"
+    },
+    "extendedData": {},
+    "lastUpdated": "2021-02-07T08:49:33.73Z"
+  },
+  {
+    "setID": 30220,
+    "number": "80012",
+    "numberVariant": 1,
+    "name": "Monkey King Warrior Mech",
+    "year": 2020,
+    "theme": "Monkie Kid",
+    "themeGroup": "Action/Adventure",
+    "subtheme": "A Hero is Born",
+    "category": "Normal",
+    "released": true,
+    "pieces": 1629,
+    "minifigs": 6,
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/80012-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/80012-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/80012-1",
+    "collection": {},
+    "collections": {
+      "ownedBy": 1387,
+      "wantedBy": 1223
+    },
+    "LEGOCom": {
+      "US": {
+        "retailPrice": 149.99,
+        "dateFirstAvailable": "2020-05-16T00:00:00Z"
+      },
+      "UK": {
+        "retailPrice": 114.99,
+        "dateFirstAvailable": "2020-05-16T00:00:00Z"
+      },
+      "CA": {
+        "retailPrice": 189.99,
+        "dateFirstAvailable": "2020-05-16T00:00:00Z"
+      },
+      "DE": {
+        "retailPrice": 129.99,
+        "dateFirstAvailable": "2020-05-19T00:00:00Z"
+      }
+    },
+    "rating": 4.3,
+    "reviewCount": 3,
+    "packagingType": "Box",
+    "availability": "LEGO exclusive",
+    "instructionsCount": 6,
+    "additionalImageCount": 37,
+    "ageRange": {
+      "min": 10
+    },
+    "dimensions": {
+      "height": 48.0,
+      "width": 37.8,
+      "depth": 11.2
+    },
+    "barcode": {
+      "EAN": "5702016617672"
+    },
+    "extendedData": {},
+    "lastUpdated": "2021-02-07T08:53:48.78Z"
+  },
+  {
+    "setID": 30221,
+    "number": "80013",
+    "numberVariant": 1,
+    "name": "Monkie Kid's Team Secret HQ",
+    "year": 2020,
+    "theme": "Monkie Kid",
+    "themeGroup": "Action/Adventure",
+    "subtheme": "A Hero is Born",
+    "category": "Normal",
+    "released": true,
+    "pieces": 1959,
+    "minifigs": 8,
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/80013-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/80013-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/80013-1",
+    "collection": {},
+    "collections": {
+      "ownedBy": 1038,
+      "wantedBy": 1089
+    },
+    "LEGOCom": {
+      "US": {
+        "retailPrice": 169.99,
+        "dateFirstAvailable": "2020-05-16T00:00:00Z"
+      },
+      "UK": {
+        "retailPrice": 149.99,
+        "dateFirstAvailable": "2020-05-16T00:00:00Z"
+      },
+      "CA": {
+        "retailPrice": 249.99,
+        "dateFirstAvailable": "2020-05-16T00:00:00Z"
+      },
+      "DE": {
+        "retailPrice": 169.99,
+        "dateFirstAvailable": "2020-05-19T00:00:00Z"
+      }
+    },
+    "rating": 4.1,
+    "reviewCount": 1,
+    "packagingType": "Box",
+    "availability": "LEGO exclusive",
+    "instructionsCount": 15,
+    "additionalImageCount": 37,
+    "ageRange": {
+      "min": 10
+    },
+    "dimensions": {
+      "height": 48.0,
+      "width": 58.2,
+      "depth": 12.4
+    },
+    "barcode": {
+      "EAN": "5702016617689"
+    },
+    "extendedData": {},
+    "lastUpdated": "2021-02-07T08:49:46.6Z"
+  },
+  {
+    "setID": 30638,
+    "number": "80014",
+    "numberVariant": 1,
+    "name": "Sandy's Speedboat",
+    "year": 2020,
+    "theme": "Monkie Kid",
+    "themeGroup": "Action/Adventure",
+    "subtheme": "Season 1",
+    "category": "Normal",
+    "released": true,
+    "pieces": 394,
+    "minifigs": 4,
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/80014-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/80014-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/80014-1",
+    "collection": {},
+    "collections": {
+      "ownedBy": 447,
+      "wantedBy": 409
+    },
+    "LEGOCom": {
+      "US": {
+        "retailPrice": 59.99,
+        "dateFirstAvailable": "2020-08-24T00:00:00Z"
+      },
+      "UK": {
+        "retailPrice": 44.99,
+        "dateFirstAvailable": "2020-08-01T00:00:00Z",
+        "dateLastAvailable": "2021-11-20T00:00:00Z"
+      },
+      "CA": {
+        "retailPrice": 79.99,
+        "dateFirstAvailable": "2020-08-24T00:00:00Z"
+      },
+      "DE": {
+        "retailPrice": 49.99,
+        "dateFirstAvailable": "2020-08-02T00:00:00Z",
+        "dateLastAvailable": "2021-11-20T00:00:00Z"
+      }
+    },
+    "rating": 0.0,
+    "reviewCount": 0,
+    "packagingType": "Box",
+    "availability": "LEGO exclusive",
+    "instructionsCount": 3,
+    "additionalImageCount": 12,
+    "ageRange": {
+      "min": 8
+    },
+    "dimensions": {
+      "height": 26.2,
+      "width": 38.2,
+      "depth": 5.7
+    },
+    "barcode": {
+      "EAN": "5702016617696"
+    },
+    "extendedData": {},
+    "lastUpdated": "2021-02-07T08:50:00.653Z"
+  },
+  {
+    "setID": 30636,
+    "number": "80015",
+    "numberVariant": 1,
+    "name": "Monkie Kid's Cloud Roadster",
+    "year": 2020,
+    "theme": "Monkie Kid",
+    "themeGroup": "Action/Adventure",
+    "subtheme": "Season 1",
+    "category": "Normal",
+    "released": true,
+    "pieces": 659,
+    "minifigs": 5,
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/80015-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/80015-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/80015-1",
+    "collection": {},
+    "collections": {
+      "ownedBy": 451,
+      "wantedBy": 447
+    },
+    "LEGOCom": {
+      "US": {
+        "retailPrice": 69.99,
+        "dateFirstAvailable": "2020-08-24T00:00:00Z"
+      },
+      "UK": {
+        "retailPrice": 54.99,
+        "dateFirstAvailable": "2020-08-01T00:00:00Z",
+        "dateLastAvailable": "2021-11-15T00:00:00Z"
+      },
+      "CA": {
+        "retailPrice": 99.99,
+        "dateFirstAvailable": "2020-08-24T00:00:00Z"
+      },
+      "DE": {
+        "retailPrice": 59.99,
+        "dateFirstAvailable": "2020-08-02T00:00:00Z",
+        "dateLastAvailable": "2021-11-16T00:00:00Z"
+      }
+    },
+    "rating": 0.0,
+    "reviewCount": 0,
+    "packagingType": "Box",
+    "availability": "LEGO exclusive",
+    "instructionsCount": 3,
+    "additionalImageCount": 12,
+    "ageRange": {
+      "min": 8
+    },
+    "dimensions": {
+      "height": 28.2,
+      "width": 54.0,
+      "depth": 7.9
+    },
+    "barcode": {
+      "EAN": "5702016617702"
+    },
+    "extendedData": {},
+    "lastUpdated": "2021-02-07T08:50:15.243Z"
+  },
+  {
+    "setID": 30637,
+    "number": "80016",
+    "numberVariant": 1,
+    "name": "The Flaming Foundry",
+    "year": 2020,
+    "theme": "Monkie Kid",
+    "themeGroup": "Action/Adventure",
+    "subtheme": "Season 1",
+    "category": "Normal",
+    "released": true,
+    "pieces": 1427,
+    "minifigs": 7,
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/80016-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/80016-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/80016-1",
+    "collection": {},
+    "collections": {
+      "ownedBy": 374,
+      "wantedBy": 460
+    },
+    "LEGOCom": {
+      "US": {
+        "retailPrice": 139.99,
+        "dateFirstAvailable": "2020-08-24T00:00:00Z"
+      },
+      "UK": {
+        "retailPrice": 119.99,
+        "dateFirstAvailable": "2020-08-01T00:00:00Z",
+        "dateLastAvailable": "2022-01-12T00:00:00Z"
+      },
+      "CA": {
+        "retailPrice": 179.99,
+        "dateFirstAvailable": "2020-08-24T00:00:00Z"
+      },
+      "DE": {
+        "retailPrice": 129.99,
+        "dateFirstAvailable": "2020-08-02T00:00:00Z",
+        "dateLastAvailable": "2022-01-12T00:00:00Z"
+      }
+    },
+    "rating": 0.0,
+    "reviewCount": 0,
+    "packagingType": "Box",
+    "availability": "LEGO exclusive",
+    "instructionsCount": 6,
+    "additionalImageCount": 12,
+    "ageRange": {
+      "min": 9
+    },
+    "dimensions": {
+      "height": 37.8,
+      "width": 58.2,
+      "depth": 8.7
+    },
+    "barcode": {
+      "EAN": "5702016617719"
+    },
+    "extendedData": {},
+    "lastUpdated": "2021-02-07T08:50:45.433Z"
+  },
+  {
+    "setID": 30962,
+    "number": "80018",
+    "numberVariant": 1,
+    "name": "Monkie Kid's Cloud Bike",
+    "year": 2021,
+    "theme": "Monkie Kid",
+    "themeGroup": "Action/Adventure",
+    "subtheme": "Season 2",
+    "category": "Normal",
+    "released": true,
+    "pieces": 203,
+    "minifigs": 3,
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/80018-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/80018-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/80018-1",
+    "collection": {},
+    "collections": {
+      "ownedBy": 427,
+      "wantedBy": 317
+    },
+    "LEGOCom": {
+      "US": {
+        "retailPrice": 24.99,
+        "dateFirstAvailable": "2021-03-01T00:00:00Z"
+      },
+      "UK": {
+        "retailPrice": 17.99,
+        "dateFirstAvailable": "2021-03-01T00:00:00Z",
+        "dateLastAvailable": "2021-11-22T00:00:00Z"
+      },
+      "CA": {
+        "retailPrice": 34.99,
+        "dateFirstAvailable": "2021-03-01T00:00:00Z"
+      },
+      "DE": {
+        "retailPrice": 19.99,
+        "dateFirstAvailable": "2021-03-02T00:00:00Z",
+        "dateLastAvailable": "2021-11-22T00:00:00Z"
+      }
+    },
+    "rating": 0.0,
+    "reviewCount": 0,
+    "packagingType": "Box",
+    "availability": "LEGO exclusive",
+    "instructionsCount": 3,
+    "additionalImageCount": 11,
+    "ageRange": {},
+    "dimensions": {
+      "height": 19.1,
+      "width": 26.2,
+      "depth": 4.6
+    },
+    "barcode": {
+      "EAN": "5702016911268",
+      "UPC": "673419338042"
+    },
+    "extendedData": {},
+    "lastUpdated": "2021-02-19T19:21:30.11Z"
+  },
+  {
+    "setID": 30963,
+    "number": "80019",
+    "numberVariant": 1,
+    "name": "Red Son's Inferno Jet",
+    "year": 2021,
+    "theme": "Monkie Kid",
+    "themeGroup": "Action/Adventure",
+    "subtheme": "Season 2",
+    "category": "Normal",
+    "released": true,
+    "pieces": 299,
+    "minifigs": 3,
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/80019-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/80019-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/80019-1",
+    "collection": {},
+    "collections": {
+      "ownedBy": 344,
+      "wantedBy": 345
+    },
+    "LEGOCom": {
+      "US": {
+        "retailPrice": 34.99,
+        "dateFirstAvailable": "2021-03-01T00:00:00Z"
+      },
+      "UK": {
+        "retailPrice": 24.99,
+        "dateFirstAvailable": "2021-03-01T00:00:00Z"
+      },
+      "CA": {
+        "retailPrice": 44.99,
+        "dateFirstAvailable": "2021-03-01T00:00:00Z"
+      },
+      "DE": {
+        "retailPrice": 29.99,
+        "dateFirstAvailable": "2021-03-02T00:00:00Z"
+      }
+    },
+    "rating": 0.0,
+    "reviewCount": 0,
+    "packagingType": "Box",
+    "availability": "LEGO exclusive",
+    "instructionsCount": 3,
+    "additionalImageCount": 11,
+    "ageRange": {
+      "min": 7
+    },
+    "dimensions": {
+      "height": 19.1,
+      "width": 35.4,
+      "depth": 5.9
+    },
+    "barcode": {
+      "EAN": "5702016911138",
+      "UPC": "673419338455"
+    },
+    "extendedData": {},
+    "lastUpdated": "2021-02-19T19:26:00.57Z"
+  },
+  {
+    "setID": 30964,
+    "number": "80020",
+    "numberVariant": 1,
+    "name": "White Dragon Horse Jet",
+    "year": 2021,
+    "theme": "Monkie Kid",
+    "themeGroup": "Action/Adventure",
+    "subtheme": "Season 2",
+    "category": "Normal",
+    "released": true,
+    "pieces": 565,
+    "minifigs": 3,
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/80020-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/80020-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/80020-1",
+    "collection": {},
+    "collections": {
+      "ownedBy": 613,
+      "wantedBy": 570
+    },
+    "LEGOCom": {
+      "US": {
+        "retailPrice": 49.99,
+        "dateFirstAvailable": "2021-03-01T00:00:00Z"
+      },
+      "UK": {
+        "retailPrice": 34.99,
+        "dateFirstAvailable": "2021-03-01T00:00:00Z"
+      },
+      "CA": {
+        "retailPrice": 69.99,
+        "dateFirstAvailable": "2021-03-01T00:00:00Z"
+      },
+      "DE": {
+        "retailPrice": 39.99,
+        "dateFirstAvailable": "2021-03-02T00:00:00Z"
+      }
+    },
+    "rating": 4.4,
+    "reviewCount": 0,
+    "packagingType": "Box",
+    "availability": "LEGO exclusive",
+    "instructionsCount": 3,
+    "additionalImageCount": 10,
+    "ageRange": {
+      "min": 7
+    },
+    "dimensions": {
+      "height": 26.2,
+      "width": 38.2,
+      "depth": 7.1
+    },
+    "barcode": {
+      "EAN": "5702016911145",
+      "UPC": "673419338462"
+    },
+    "extendedData": {},
+    "lastUpdated": "2021-02-20T23:51:23.833Z"
+  },
+  {
+    "setID": 30965,
+    "number": "80021",
+    "numberVariant": 1,
+    "name": "Monkie Kid's Lion Guardian",
+    "year": 2021,
+    "theme": "Monkie Kid",
+    "themeGroup": "Action/Adventure",
+    "subtheme": "Season 2",
+    "category": "Normal",
+    "released": true,
+    "pieces": 774,
+    "minifigs": 5,
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/80021-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/80021-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/80021-1",
+    "collection": {},
+    "collections": {
+      "ownedBy": 408,
+      "wantedBy": 433
+    },
+    "LEGOCom": {
+      "US": {
+        "retailPrice": 79.99,
+        "dateFirstAvailable": "2021-03-01T00:00:00Z"
+      },
+      "UK": {
+        "retailPrice": 59.99,
+        "dateFirstAvailable": "2021-03-01T00:00:00Z"
+      },
+      "CA": {
+        "retailPrice": 109.99,
+        "dateFirstAvailable": "2021-03-01T00:00:00Z"
+      },
+      "DE": {
+        "retailPrice": 69.99,
+        "dateFirstAvailable": "2021-03-02T00:00:00Z"
+      }
+    },
+    "rating": 0.0,
+    "reviewCount": 0,
+    "packagingType": "Box",
+    "availability": "LEGO exclusive",
+    "instructionsCount": 6,
+    "additionalImageCount": 11,
+    "ageRange": {
+      "min": 8
+    },
+    "dimensions": {
+      "height": 35.4,
+      "width": 37.8,
+      "depth": 7.1
+    },
+    "barcode": {
+      "EAN": "5702016911152",
+      "UPC": "673419338479"
+    },
+    "extendedData": {},
+    "lastUpdated": "2021-02-19T19:25:17.8Z"
+  },
+  {
+    "setID": 30966,
+    "number": "80022",
+    "numberVariant": 1,
+    "name": "Spider Queen's Arachnoid Base",
+    "year": 2021,
+    "theme": "Monkie Kid",
+    "themeGroup": "Action/Adventure",
+    "subtheme": "Season 2",
+    "category": "Normal",
+    "released": true,
+    "pieces": 1170,
+    "minifigs": 6,
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/80022-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/80022-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/80022-1",
+    "collection": {},
+    "collections": {
+      "ownedBy": 416,
+      "wantedBy": 472
+    },
+    "LEGOCom": {
+      "US": {
+        "retailPrice": 119.99,
+        "dateFirstAvailable": "2021-03-01T00:00:00Z"
+      },
+      "UK": {
+        "retailPrice": 89.99,
+        "dateFirstAvailable": "2021-03-01T00:00:00Z"
+      },
+      "CA": {
+        "retailPrice": 159.99,
+        "dateFirstAvailable": "2021-03-01T00:00:00Z"
+      },
+      "DE": {
+        "retailPrice": 99.99,
+        "dateFirstAvailable": "2021-03-02T00:00:00Z"
+      }
+    },
+    "rating": 0.0,
+    "reviewCount": 0,
+    "packagingType": "Box",
+    "availability": "LEGO exclusive",
+    "instructionsCount": 6,
+    "additionalImageCount": 12,
+    "ageRange": {
+      "min": 9
+    },
+    "dimensions": {
+      "height": 37.8,
+      "width": 48.0,
+      "depth": 9.4
+    },
+    "barcode": {
+      "EAN": "5702016911169"
+    },
+    "extendedData": {},
+    "lastUpdated": "2021-02-19T19:24:33.433Z"
+  },
+  {
+    "setID": 30959,
+    "number": "80023",
+    "numberVariant": 1,
+    "name": "Monkie Kid's Team Dronecopter",
+    "year": 2021,
+    "theme": "Monkie Kid",
+    "themeGroup": "Action/Adventure",
+    "subtheme": "Season 2",
+    "category": "Normal",
+    "released": true,
+    "pieces": 1462,
+    "minifigs": 9,
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/80023-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/80023-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/80023-1",
+    "collection": {},
+    "collections": {
+      "ownedBy": 320,
+      "wantedBy": 549
+    },
+    "LEGOCom": {
+      "US": {
+        "retailPrice": 149.99,
+        "dateFirstAvailable": "2021-03-01T00:00:00Z"
+      },
+      "UK": {
+        "retailPrice": 114.99,
+        "dateFirstAvailable": "2021-03-01T00:00:00Z"
+      },
+      "CA": {
+        "retailPrice": 199.99,
+        "dateFirstAvailable": "2021-03-01T00:00:00Z"
+      },
+      "DE": {
+        "retailPrice": 129.99,
+        "dateFirstAvailable": "2021-03-02T00:00:00Z"
+      }
+    },
+    "rating": 0.0,
+    "reviewCount": 0,
+    "packagingType": "Box",
+    "availability": "LEGO exclusive",
+    "instructionsCount": 6,
+    "additionalImageCount": 24,
+    "ageRange": {
+      "min": 10
+    },
+    "dimensions": {
+      "height": 37.8,
+      "width": 58.2,
+      "depth": 8.7
+    },
+    "barcode": {
+      "EAN": "5702016911473"
+    },
+    "extendedData": {},
+    "lastUpdated": "2021-02-19T19:23:13.86Z"
+  },
+  {
+    "setID": 31411,
+    "number": "80024",
+    "numberVariant": 1,
+    "name": "The Legendary Flower Fruit Mountain",
+    "year": 2021,
+    "theme": "Monkie Kid",
+    "themeGroup": "Action/Adventure",
+    "subtheme": "Season 2",
+    "category": "Normal",
+    "released": true,
+    "pieces": 1949,
+    "minifigs": 8,
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/80024-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/80024-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/80024-1",
+    "collection": {},
+    "collections": {
+      "ownedBy": 1126,
+      "wantedBy": 1191
+    },
+    "LEGOCom": {
+      "US": {
+        "retailPrice": 169.99,
+        "dateFirstAvailable": "2021-03-01T00:00:00Z"
+      },
+      "UK": {
+        "retailPrice": 149.99,
+        "dateFirstAvailable": "2021-03-01T00:00:00Z"
+      },
+      "CA": {
+        "retailPrice": 249.99,
+        "dateFirstAvailable": "2021-03-01T00:00:00Z"
+      },
+      "DE": {
+        "retailPrice": 169.99,
+        "dateFirstAvailable": "2021-03-02T00:00:00Z"
+      }
+    },
+    "rating": 4.7,
+    "reviewCount": 0,
+    "packagingType": "Box",
+    "availability": "LEGO exclusive",
+    "instructionsCount": 14,
+    "additionalImageCount": 19,
+    "ageRange": {
+      "min": 10
+    },
+    "dimensions": {
+      "height": 48.0,
+      "width": 58.2,
+      "depth": 9.1
+    },
+    "barcode": {
+      "EAN": "5702016911480",
+      "UPC": "673419338554"
+    },
+    "extendedData": {},
+    "lastUpdated": "2021-02-19T19:22:10.19Z"
+  },
+  {
+    "setID": 31707,
+    "number": "80025",
+    "numberVariant": 1,
+    "name": "Sandy's Power Loader Mech",
+    "year": 2021,
+    "theme": "Monkie Kid",
+    "themeGroup": "Action/Adventure",
+    "subtheme": "Season 2",
+    "category": "Normal",
+    "released": true,
+    "pieces": 520,
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/80025-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/80025-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/80025-1",
+    "collection": {},
+    "collections": {
+      "ownedBy": 235,
+      "wantedBy": 334
+    },
+    "LEGOCom": {
+      "US": {
+        "retailPrice": 54.99,
+        "dateFirstAvailable": "2021-07-03T00:00:00Z"
+      },
+      "UK": {
+        "retailPrice": 39.99,
+        "dateFirstAvailable": "2021-07-01T00:00:00Z"
+      },
+      "CA": {
+        "retailPrice": 69.99,
+        "dateFirstAvailable": "2021-07-03T00:00:00Z"
+      },
+      "DE": {
+        "retailPrice": 44.99,
+        "dateFirstAvailable": "2021-07-02T00:00:00Z"
+      }
+    },
+    "rating": 0.0,
+    "reviewCount": 1,
+    "packagingType": "Box",
+    "availability": "Retail",
+    "instructionsCount": 3,
+    "additionalImageCount": 10,
+    "ageRange": {
+      "min": 8
+    },
+    "dimensions": {
+      "height": 26.2,
+      "width": 38.2,
+      "depth": 7.1
+    },
+    "barcode": {
+      "EAN": "5702016911060",
+      "UPC": "673419338561"
+    },
+    "extendedData": {},
+    "lastUpdated": "2021-06-02T22:52:05.983Z"
+  },
+  {
+    "setID": 31706,
+    "number": "80026",
+    "numberVariant": 1,
+    "name": "Pigsy's Noodle Tank",
+    "year": 2021,
+    "theme": "Monkie Kid",
+    "themeGroup": "Action/Adventure",
+    "subtheme": "Season 2",
+    "category": "Normal",
+    "released": true,
+    "pieces": 662,
+    "minifigs": 4,
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/80026-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/80026-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/80026-1",
+    "collection": {},
+    "collections": {
+      "ownedBy": 413,
+      "wantedBy": 442
+    },
+    "LEGOCom": {
+      "US": {
+        "retailPrice": 59.99,
+        "dateFirstAvailable": "2021-07-03T00:00:00Z"
+      },
+      "UK": {
+        "retailPrice": 44.99,
+        "dateFirstAvailable": "2021-07-01T00:00:00Z"
+      },
+      "CA": {
+        "retailPrice": 79.99,
+        "dateFirstAvailable": "2021-07-03T00:00:00Z"
+      },
+      "DE": {
+        "retailPrice": 49.99,
+        "dateFirstAvailable": "2021-07-02T00:00:00Z"
+      }
+    },
+    "rating": 0.0,
+    "reviewCount": 0,
+    "packagingType": "Box",
+    "availability": "Retail",
+    "instructionsCount": 3,
+    "additionalImageCount": 12,
+    "ageRange": {
+      "min": 8
+    },
+    "dimensions": {
+      "height": 28.2,
+      "width": 48.0,
+      "depth": 6.1
+    },
+    "barcode": {
+      "EAN": "5702016911572",
+      "UPC": "673419338578"
+    },
+    "extendedData": {},
+    "lastUpdated": "2021-06-02T22:52:43.763Z"
+  },
+  {
+    "setID": 31708,
+    "number": "80028",
+    "numberVariant": 1,
+    "name": "The Bone Demon",
+    "year": 2021,
+    "theme": "Monkie Kid",
+    "themeGroup": "Action/Adventure",
+    "subtheme": "Season 2",
+    "category": "Normal",
+    "released": true,
+    "pieces": 1375,
+    "minifigs": 5,
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/80028-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/80028-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/80028-1",
+    "collection": {},
+    "collections": {
+      "ownedBy": 454,
+      "wantedBy": 498
+    },
+    "LEGOCom": {
+      "US": {
+        "retailPrice": 119.99,
+        "dateFirstAvailable": "2021-07-03T00:00:00Z"
+      },
+      "UK": {
+        "retailPrice": 89.99,
+        "dateFirstAvailable": "2021-07-01T00:00:00Z"
+      },
+      "CA": {
+        "retailPrice": 159.99,
+        "dateFirstAvailable": "2021-07-03T00:00:00Z"
+      },
+      "DE": {
+        "retailPrice": 99.99,
+        "dateFirstAvailable": "2021-07-02T00:00:00Z"
+      }
+    },
+    "rating": 4.7,
+    "reviewCount": 2,
+    "packagingType": "Box",
+    "availability": "Retail",
+    "instructionsCount": 9,
+    "additionalImageCount": 16,
+    "ageRange": {
+      "min": 9
+    },
+    "dimensions": {
+      "height": 48.0,
+      "width": 37.8,
+      "depth": 9.4
+    },
+    "barcode": {
+      "EAN": "5702016911497",
+      "UPC": "673419338493"
+    },
+    "extendedData": {},
+    "lastUpdated": "2021-06-02T22:48:57.38Z"
+  },
+  {
+    "setID": 32217,
+    "number": "80030",
+    "numberVariant": 1,
+    "name": "Monkie Kid's Staff Creations",
+    "year": 2022,
+    "theme": "Monkie Kid",
+    "themeGroup": "Action/Adventure",
+    "subtheme": "Miscellaneous",
+    "category": "Normal",
+    "released": true,
+    "pieces": 309,
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/80030-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/80030-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/80030-1",
+    "collection": {},
+    "collections": {
+      "ownedBy": 78,
+      "wantedBy": 244
+    },
+    "LEGOCom": {
+      "US": {
+        "retailPrice": 34.99,
+        "dateFirstAvailable": "2022-01-02T00:00:00Z"
+      },
+      "UK": {
+        "retailPrice": 24.99,
+        "dateFirstAvailable": "2022-01-01T00:00:00Z"
+      },
+      "CA": {
+        "retailPrice": 44.99,
+        "dateFirstAvailable": "2022-01-02T00:00:00Z"
+      },
+      "DE": {
+        "retailPrice": 29.99,
+        "dateFirstAvailable": "2022-01-04T00:00:00Z"
+      }
+    },
+    "rating": 0.0,
+    "reviewCount": 0,
+    "packagingType": "Box",
+    "availability": "Retail",
+    "instructionsCount": 9,
+    "additionalImageCount": 13,
+    "ageRange": {
+      "min": 5
+    },
+    "dimensions": {
+      "height": 19.1,
+      "width": 35.4,
+      "depth": 5.9
+    },
+    "barcode": {
+      "EAN": "5702017153131"
+    },
+    "extendedData": {},
+    "lastUpdated": "2021-12-31T17:53:25.203Z"
+  },
+  {
+    "setID": 32218,
+    "number": "80031",
+    "numberVariant": 1,
+    "name": "Mei's Dragon Car",
+    "year": 2022,
+    "theme": "Monkie Kid",
+    "themeGroup": "Action/Adventure",
+    "subtheme": "Season 3",
+    "category": "Normal",
+    "released": true,
+    "pieces": 456,
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/80031-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/80031-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/80031-1",
+    "collection": {},
+    "collections": {
+      "ownedBy": 107,
+      "wantedBy": 335
+    },
+    "LEGOCom": {
+      "US": {
+        "retailPrice": 49.99,
+        "dateFirstAvailable": "2022-01-02T00:00:00Z"
+      },
+      "UK": {
+        "retailPrice": 34.99,
+        "dateFirstAvailable": "2022-01-01T00:00:00Z"
+      },
+      "CA": {
+        "retailPrice": 64.99,
+        "dateFirstAvailable": "2022-01-02T00:00:00Z"
+      },
+      "DE": {
+        "retailPrice": 39.99,
+        "dateFirstAvailable": "2022-01-04T00:00:00Z"
+      }
+    },
+    "rating": 0.0,
+    "reviewCount": 0,
+    "packagingType": "Box",
+    "availability": "Retail",
+    "instructionsCount": 3,
+    "additionalImageCount": 11,
+    "ageRange": {
+      "min": 7
+    },
+    "dimensions": {
+      "height": 26.2,
+      "width": 38.2,
+      "depth": 5.7
+    },
+    "barcode": {
+      "EAN": "5702017153148"
+    },
+    "extendedData": {},
+    "lastUpdated": "2021-12-31T17:53:28Z"
+  },
+  {
+    "setID": 32219,
+    "number": "80032",
+    "numberVariant": 1,
+    "name": "Chang'e Moon Cake Factory",
+    "year": 2022,
+    "theme": "Monkie Kid",
+    "themeGroup": "Action/Adventure",
+    "subtheme": "Season 3",
+    "category": "Normal",
+    "released": true,
+    "pieces": 609,
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/80032-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/80032-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/80032-1",
+    "collection": {},
+    "collections": {
+      "ownedBy": 274,
+      "wantedBy": 659
+    },
+    "LEGOCom": {
+      "US": {
+        "retailPrice": 69.99,
+        "dateFirstAvailable": "2022-01-02T00:00:00Z"
+      },
+      "UK": {
+        "retailPrice": 44.99,
+        "dateFirstAvailable": "2022-01-01T00:00:00Z"
+      },
+      "CA": {
+        "retailPrice": 89.99,
+        "dateFirstAvailable": "2022-01-02T00:00:00Z"
+      },
+      "DE": {
+        "retailPrice": 49.99,
+        "dateFirstAvailable": "2022-01-04T00:00:00Z"
+      }
+    },
+    "rating": 0.0,
+    "reviewCount": 0,
+    "packagingType": "Box",
+    "availability": "Retail",
+    "instructionsCount": 3,
+    "additionalImageCount": 12,
+    "ageRange": {
+      "min": 8
+    },
+    "dimensions": {
+      "height": 28.2,
+      "width": 48.0,
+      "depth": 6.1
+    },
+    "barcode": {
+      "EAN": "5702017153759"
+    },
+    "extendedData": {},
+    "lastUpdated": "2021-12-31T17:53:32.257Z"
+  },
+  {
+    "setID": 32206,
+    "number": "80033",
+    "numberVariant": 1,
+    "name": "Evil Macaque's Mech",
+    "year": 2022,
+    "theme": "Monkie Kid",
+    "themeGroup": "Action/Adventure",
+    "subtheme": "Season 3",
+    "category": "Normal",
+    "released": true,
+    "pieces": 893,
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/80033-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/80033-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/80033-1",
+    "collection": {},
+    "collections": {
+      "ownedBy": 132,
+      "wantedBy": 424
+    },
+    "LEGOCom": {
+      "US": {
+        "retailPrice": 79.99,
+        "dateFirstAvailable": "2022-01-02T00:00:00Z"
+      },
+      "UK": {
+        "retailPrice": 54.99,
+        "dateFirstAvailable": "2022-01-01T00:00:00Z"
+      },
+      "CA": {
+        "retailPrice": 109.99,
+        "dateFirstAvailable": "2022-01-02T00:00:00Z"
+      },
+      "DE": {
+        "retailPrice": 59.99,
+        "dateFirstAvailable": "2022-01-04T00:00:00Z"
+      }
+    },
+    "rating": 0.0,
+    "reviewCount": 0,
+    "packagingType": "Box",
+    "availability": "Retail",
+    "instructionsCount": 3,
+    "additionalImageCount": 11,
+    "ageRange": {
+      "min": 8
+    },
+    "dimensions": {
+      "height": 37.8,
+      "width": 35.4,
+      "depth": 7.1
+    },
+    "barcode": {
+      "EAN": "5702017153155"
+    },
+    "extendedData": {},
+    "lastUpdated": "2021-12-31T17:53:34.103Z"
+  },
+  {
+    "setID": 32207,
+    "number": "80034",
+    "numberVariant": 1,
+    "name": "Nezha's Fire Ring",
+    "year": 2022,
+    "theme": "Monkie Kid",
+    "themeGroup": "Action/Adventure",
+    "subtheme": "Season 3",
+    "category": "Normal",
+    "released": true,
+    "pieces": 929,
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/80034-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/80034-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/80034-1",
+    "collection": {},
+    "collections": {
+      "ownedBy": 141,
+      "wantedBy": 547
+    },
+    "LEGOCom": {
+      "US": {
+        "retailPrice": 99.99,
+        "dateFirstAvailable": "2022-01-02T00:00:00Z"
+      },
+      "UK": {
+        "retailPrice": 69.99,
+        "dateFirstAvailable": "2022-01-01T00:00:00Z"
+      },
+      "CA": {
+        "retailPrice": 129.99,
+        "dateFirstAvailable": "2022-01-02T00:00:00Z"
+      },
+      "DE": {
+        "retailPrice": 79.99,
+        "dateFirstAvailable": "2022-01-04T00:00:00Z"
+      }
+    },
+    "rating": 0.0,
+    "reviewCount": 0,
+    "packagingType": "Box",
+    "availability": "Retail",
+    "instructionsCount": 3,
+    "additionalImageCount": 12,
+    "ageRange": {
+      "min": 8
+    },
+    "dimensions": {
+      "height": 28.2,
+      "width": 54.0,
+      "depth": 7.9
+    },
+    "barcode": {
+      "EAN": "5702017153315"
+    },
+    "extendedData": {},
+    "lastUpdated": "2021-12-31T17:53:38.883Z"
+  },
+  {
+    "setID": 32170,
+    "number": "80035",
+    "numberVariant": 1,
+    "name": "Monkie Kid's Galactic Explorer",
+    "year": 2022,
+    "theme": "Monkie Kid",
+    "themeGroup": "Action/Adventure",
+    "subtheme": "Season 3",
+    "category": "Normal",
+    "released": true,
+    "pieces": 1356,
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/80035-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/80035-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/80035-1",
+    "collection": {},
+    "collections": {
+      "ownedBy": 163,
+      "wantedBy": 523
+    },
+    "LEGOCom": {
+      "US": {
+        "retailPrice": 129.99,
+        "dateFirstAvailable": "2022-01-02T00:00:00Z"
+      },
+      "UK": {
+        "retailPrice": 89.99,
+        "dateFirstAvailable": "2022-01-01T00:00:00Z"
+      },
+      "CA": {
+        "retailPrice": 169.99,
+        "dateFirstAvailable": "2022-01-02T00:00:00Z"
+      },
+      "DE": {
+        "retailPrice": 99.99,
+        "dateFirstAvailable": "2022-01-04T00:00:00Z"
+      }
+    },
+    "rating": 0.0,
+    "reviewCount": 0,
+    "packagingType": "Box",
+    "availability": "Retail",
+    "instructionsCount": 3,
+    "additionalImageCount": 12,
+    "ageRange": {
+      "min": 9
+    },
+    "dimensions": {
+      "height": 37.8,
+      "width": 48.0,
+      "depth": 9.4
+    },
+    "barcode": {
+      "EAN": "5702017153162"
+    },
+    "extendedData": {},
+    "lastUpdated": "2021-12-31T17:59:10.86Z"
+  },
+  {
+    "setID": 32216,
+    "number": "80036",
+    "numberVariant": 1,
+    "name": "The City of Lanterns",
+    "year": 2022,
+    "theme": "Monkie Kid",
+    "themeGroup": "Action/Adventure",
+    "subtheme": "Season 3",
+    "category": "Normal",
+    "released": true,
+    "pieces": 2187,
+    "image": {
+      "thumbnailURL": "https://images.brickset.com/sets/small/80036-1.jpg",
+      "imageURL": "https://images.brickset.com/sets/images/80036-1.jpg"
+    },
+    "bricksetURL": "https://brickset.com/sets/80036-1",
+    "collection": {},
+    "collections": {
+      "ownedBy": 581,
+      "wantedBy": 1626
+    },
+    "LEGOCom": {
+      "US": {
+        "retailPrice": 149.99,
+        "dateFirstAvailable": "2022-01-02T00:00:00Z"
+      },
+      "UK": {
+        "retailPrice": 114.99,
+        "dateFirstAvailable": "2022-01-01T00:00:00Z"
+      },
+      "CA": {
+        "retailPrice": 199.99,
+        "dateFirstAvailable": "2022-01-02T00:00:00Z"
+      },
+      "DE": {
+        "retailPrice": 129.99,
+        "dateFirstAvailable": "2022-01-04T00:00:00Z"
+      }
+    },
+    "rating": 0.0,
+    "reviewCount": 0,
+    "packagingType": "Box",
+    "availability": "Retail",
+    "instructionsCount": 6,
+    "additionalImageCount": 14,
+    "ageRange": {
+      "min": 9
+    },
+    "dimensions": {
+      "height": 37.8,
+      "width": 58.2,
+      "depth": 11.8
+    },
+    "barcode": {
+      "EAN": "5702017153773"
+    },
+    "extendedData": {},
+    "lastUpdated": "2021-12-31T17:53:43.197Z"
+  }
+]}

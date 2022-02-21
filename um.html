@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+<body>
+
+    <div id="getSets"></div>
+    <script>
+        fetch('getSets.json')
+            .then(function (response) {
+                return response.json();
+                //gathers data from json file
+             })
+            .then (function (data) {
+                appendData(data);
+                //converts json data to parameter to display [data is what *I* named this function?]
+            })
+            .catch(function (err) {
+                console.log(err);
+                // If an error occured, you will catch it here
+            })
+        function appendData(data) {
+            var mainContainer = document.getElementById("getSets");
+            //get element with this ID
+            for (var i = 0; i < data.length; i++) {
+            //loop thru every object in JSON
+                var div = document.createElement("div");
+                //creates new div
+                div.innerHTML = 'Set Number: ' + data[i].number + ' MSRP: ' + LEGOCom.US.retailPrice;
+                //fill div with info from json file
+                mainContainer.appendChild(div);
+                //append div to main container(?)
+            }
+        }
+    </script>
+
+</body>
+</html>
